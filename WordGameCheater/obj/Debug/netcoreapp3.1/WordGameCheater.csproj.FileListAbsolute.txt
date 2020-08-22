@@ -1,0 +1,25 @@
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.exe
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.deps.json
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.runtimeconfig.json
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.runtimeconfig.dev.json
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.dll
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.pdb
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.AssemblyInfo.cs
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.dll
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.pdb
+C:\Users\simon\source\repos\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.genruntimeconfig.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\bin\Debug\netcoreapp3.1\WordGameCheater.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\WordGameCheater\WordGameCheater\obj\Debug\netcoreapp3.1\WordGameCheater.genruntimeconfig.cache
