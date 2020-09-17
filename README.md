@@ -12,7 +12,7 @@ Run RecursiveAnagramFinder.exe
 
 I've marked this as an issue and I have plans to increase the speed of the program in the near future.
 
-ChangeLog:
+### ChangeLog:
 
 14 / 9 / 2020
 
