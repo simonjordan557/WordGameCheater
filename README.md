@@ -8,9 +8,10 @@ Navigate to RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\
 
 Run RecursiveAnagramFinder.exe
 
-**THIS PROGRAM IS WORK IN PROGRESS. LONGER STRINGS TAKE EXPONENTIALLY LONGER TO RETURN RESULTS.**
+**THIS PROGRAM IS WORK IN PROGRESS. LONGER STRINGS NATURALLY TAKE EXPONENTIALLY LONGER TO RETURN RESULTS.**
 
-I've marked this as an issue and I have plans to increase the speed of the program in the near future.
+I've increased speed by using a recursive binary search. strings of 10 characters or more still take a loooong time to conclude though. 
+I wonder if multi-threading would help. Need to research this.
 
 ### ChangeLog:
 
