@@ -14,6 +14,10 @@ I've marked this as an issue and I have plans to increase the speed of the progr
 
 ChangeLog:
 
+22 / 9 / 2020
+
+- Recursive binary search used when comparing potential anagrams to the dictionary, speeding search up massively.
+
 14 / 9 / 2020
 
 - Code rewritten to use recursion, in order to dynamically react to input strings of different lengths without hardcoded limitations.

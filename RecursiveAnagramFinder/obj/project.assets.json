@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\RecursiveAnagramFinder\\RecursiveAnagramFinder\\RecursiveAnagramFinder.csproj",
+      "projectUniqueName": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\My Programs\\RecursiveAnagramFinder\\RecursiveAnagramFinder\\RecursiveAnagramFinder.csproj",
       "projectName": "RecursiveAnagramFinder",
-      "projectPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\RecursiveAnagramFinder\\RecursiveAnagramFinder\\RecursiveAnagramFinder.csproj",
+      "projectPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\My Programs\\RecursiveAnagramFinder\\RecursiveAnagramFinder\\RecursiveAnagramFinder.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\RecursiveAnagramFinder\\RecursiveAnagramFinder\\obj\\",
+      "outputPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\My Programs\\RecursiveAnagramFinder\\RecursiveAnagramFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
