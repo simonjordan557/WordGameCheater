@@ -1,6 +1,6 @@
 # WordGameCheater
 
-A console application written in C#, to find all English words within a given string of up to 8 letters.
+A console application written in C#, to find all English words within a given string ~~of up to 8 letters.~~
 
 ### Installation
 
@@ -12,7 +12,7 @@ Run RecursiveAnagramFinder.exe
 
 I've marked this as an issue and I have plans to increase the speed of the program in the near future.
 
-ChangeLog:
+### ChangeLog:
 
 22 / 9 / 2020
 
