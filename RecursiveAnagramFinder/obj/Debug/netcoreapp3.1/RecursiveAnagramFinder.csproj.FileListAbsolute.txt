@@ -11,3 +11,16 @@ L:\Backup 19.1.18\Gamedev\Visual Studio 2019\RecursiveAnagramFinder\RecursiveAna
 L:\Backup 19.1.18\Gamedev\Visual Studio 2019\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.dll
 L:\Backup 19.1.18\Gamedev\Visual Studio 2019\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.pdb
 L:\Backup 19.1.18\Gamedev\Visual Studio 2019\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.genruntimeconfig.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\RecursiveAnagramFinder.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\RecursiveAnagramFinder.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\RecursiveAnagramFinder.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\RecursiveAnagramFinder.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\RecursiveAnagramFinder.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\bin\Debug\netcoreapp3.1\RecursiveAnagramFinder.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\RecursiveAnagramFinder\RecursiveAnagramFinder\obj\Debug\netcoreapp3.1\RecursiveAnagramFinder.genruntimeconfig.cache

@@ -15,6 +15,14 @@ I wonder if multi-threading would help. Need to research this.
 
 ### ChangeLog:
 
+2 / 10 / 2020
+
+- Outputs results to .txt file as well as the Console.
+- Checks to see if the input word, or its equal-length anagram, has previously been searched. If so, use that previous output instead of reprocessing the same data.
+- Removed need to check for duplicate results by storing results in a hashset instead of a list (Automatically ignores duplicate entries).
+- States how many results were found in the Console output.
+- Made the dictionary readonly to avoid accidental overwriting in edge case of user searching the string 'engdic'!
+
 22 / 9 / 2020
 
 - Recursive binary search used when comparing potential anagrams to the dictionary, speeding search up massively.
